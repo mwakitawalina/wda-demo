@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "790235641123",
+    "firebase_url": "https://imarishadada-b733c-default-rtdb.firebaseio.com",
+    "project_id": "imarishadada-b733c",
+    "storage_bucket": "imarishadada-b733c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790235641123:android:bace4cab7d1f7e0aed0896",
+        "android_client_info": {
+          "package_name": "com.example.flutteristas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790235641123-n68mgcekdibonpdl6nm16nlm0q0tmmms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmaDm_l9I6J7gq_0UO7Rdlbb5-FF7zTLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790235641123-n68mgcekdibonpdl6nm16nlm0q0tmmms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
